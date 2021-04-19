@@ -1,1 +1,1 @@
-# Calculadora usando React
+# Calculator project using react
